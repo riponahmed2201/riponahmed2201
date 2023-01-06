@@ -3,7 +3,6 @@
 
 
 ### Hi there 👋, I'm Md. Ripon Mia
-#### Software Engineer (Backend)
 
 I have a very particular set of skills with a keen and logical mind and a practical approach to solving the problem. I am eager to learn. I enjoy overcoming challenges. Seeking for the opportunity to bring my 3+ years of experience in Software Development with incorporating critical thinking and leadership.
 
