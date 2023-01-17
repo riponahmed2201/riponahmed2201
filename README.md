@@ -4,7 +4,7 @@
 I have a very particular set of skills with a keen and logical mind and a practical approach to solving the problem. I am eager to learn. I enjoy overcoming challenges. Seeking for the opportunity to bring my 3+ years of experience in Software Development with incorporating critical thinking and leadership.
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riponahmed2201&show_icons=true&theme=radical)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riponahmed2201)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-ripon-mia-62435a168/)  
 
