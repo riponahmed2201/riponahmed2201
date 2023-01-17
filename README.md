@@ -28,4 +28,6 @@ I have a very particular set of skills with a keen and logical mind and a practi
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=riponahmed2201)  
 
+<hr>
+
 ![Profile views](https://gpvc.arturio.dev/riponahmed2201)  
