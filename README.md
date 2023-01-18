@@ -6,7 +6,7 @@ I have a very particular set of skills with a keen and logical mind and a practi
 
 - 🌱 I’m currently learning **ReactJs & NestJs**
 
-### ⭐ Statistics and Languages
+### ⭐ Statistics
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=riponahmed2201&show_icons=true&theme=tokyonight" />
