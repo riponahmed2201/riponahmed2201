@@ -2,6 +2,8 @@
 
 I have a very particular set of skills with a keen and logical mind and a practical approach to solving the problem. I am eager to learn. I enjoy overcoming challenges. Seeking for the opportunity to bring my 3+ years of experience in Software Development with incorporating critical thinking and leadership.
 
+![Snake animation](https://github.com/riponahmed2201/riponahmed2201/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://gpvc.arturio.dev/riponahmed2201" alt="riponahmed2201" /> </p>
 
 - 🌱 I’m currently learning **ReactJs & NestJs**
