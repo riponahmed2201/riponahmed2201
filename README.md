@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Ripon Mia</h1>
 
-I have a very particular set of skills with a keen and logical mind and a practical approach to solving the problem. I am eager to learn. I enjoy overcoming challenges. Seeking for the opportunity to bring my 3+ years of experience in Software Development with incorporating critical thinking and leadership.
+Experienced software engineer proficient in JavaScript, TypeScript, PHP, and Java, seeking to contribute technical 
+expertise and collaborative problem-solving skills to a dynamic team for the development of innovative software 
+solutions. 
 
 <p align="left"> <img src="https://gpvc.arturio.dev/riponahmed2201" alt="riponahmed2201" /> </p>
 
