@@ -4,7 +4,7 @@ Experienced software engineer proficient in JavaScript, TypeScript, PHP, and Jav
 expertise and collaborative problem-solving skills to a dynamic team for the development of innovative software 
 solutions. 
 
-<p align="left"> <img src="https://gpvc.arturio.dev/riponahmed2201" alt="riponahmed2201" /> </p>
+![](https://komarev.com/ghpvc/?username=anas-mahmud&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
 - 🌱 I’m currently learning **ReactJs & NestJs**
 
