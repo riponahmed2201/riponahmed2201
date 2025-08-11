@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Ripon Mia</h1>
 
-Experienced software engineer proficient in JavaScript, TypeScript, PHP, and Java, seeking to contribute technical 
-expertise and collaborative problem-solving skills to a dynamic team for the development of innovative software 
-solutions. 
+Software Engineer with 5+ years of experience delivering scalable ERP, SCM, e-commerce, and government portals using Laravel, Node.js,
+React.js, and TypeScript. Skilled in backend architecture, frontend development, and DevOps practices, with proven ability to reduce system
+load times, optimize database performance, and lead cross-functional teams. Delivered enterprise-grade applications for organizations like
+BracNet, Teletalk, Lafarge Holcim, and Sanofi.
 
 ![](https://komarev.com/ghpvc/?username=riponahmed2201&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
