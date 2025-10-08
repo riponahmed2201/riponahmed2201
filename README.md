@@ -7,7 +7,7 @@ BracNet, Teletalk, Lafarge Holcim, and Sanofi.
 
 ![](https://komarev.com/ghpvc/?username=riponahmed2201&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
-- 🌱 I’m currently learning **ReactJs & NestJs**
+- 🌱 I’m currently learning **Python & FastAPI**
 
 ### ⭐ Statistics
 
